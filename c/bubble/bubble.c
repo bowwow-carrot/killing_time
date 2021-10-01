@@ -20,7 +20,6 @@ int main() {
 			}
 		}
 	}
-
 	for (i = 0; i < len_list; i++) {
 		printf("%d ", list[i]);
 	}
